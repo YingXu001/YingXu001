@@ -11,7 +11,7 @@
 
 ### ⚡ GitHub Stats
 
-![Fiona's GitHub stats](https://github-readme-stats.vercel.app/api?username=YourGitHubUsername&show_icons=true&theme=radical)
+![Fiona's GitHub stats](https://github-readme-stats.vercel.app/api?username=YingXu001&show_icons=true&theme=radical)
 
 [//]: # (URLs for your shields.io badges)
 
