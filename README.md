@@ -2,9 +2,9 @@
 
 ### Connect with me:
 
+[![Homepage][homepage-shield]][homepage-url]
 [![LinkedIn][linkedin-shield]][linkedin-url]
 [![Google Scholar][scholar-shield]][scholar-url]
-[![Homepage][homepage-shield]][homepage-url]
 
 ### Languages and Tools:
 
