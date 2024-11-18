@@ -4,6 +4,7 @@
 
 [![LinkedIn][linkedin-shield]][linkedin-url]
 [![Google Scholar][scholar-shield]][scholar-url]
+[![Homepage][homepage-shield]][homepage-url]
 
 ### Languages and Tools:
 
@@ -24,6 +25,9 @@
 
 [scholar-shield]: https://img.shields.io/badge/-Google%20Scholar-black.svg?style=flat-square&logo=google-scholar&colorB=555
 [scholar-url]: https://scholar.google.com/citations?user=K0beKUYAAAAJ&hl=en&authuser=2
+
+[homepage-shield]: https://img.shields.io/badge/-Homepage-red?style=flat-square&logo=github
+[homepage-url]: https://yingxu001.github.io/
 
 [Python-shield]: https://img.shields.io/badge/-Python-black?style=flat-square&logo=python
 [Python-url]: https://github.com/YingXu001/Online-Course-Platform-Django
