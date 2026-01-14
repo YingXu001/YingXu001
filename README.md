@@ -1,10 +1,22 @@
 # Hi there, I'm Fiona Xu 👋
 
+AI4Med researcher working at the intersection of  
+**Neurodegenerative diseases · AI/ML · Proteomics**
+
 ### 🔗 Connect with me:
 
 [![Homepage][homepage-shield]][homepage-url]
 [![LinkedIn][linkedin-shield]][linkedin-url]
 [![Google Scholar][scholar-shield]][scholar-url]
+
+---
+
+### 🧠 Research Interests
+
+- Neurodegenerative diseases (AD, PD, FTD, DLB)
+- Protein biomarkers & multi-omics integration
+- Machine learning for disease classification and prediction
+- Translational AI for clinical and biological discovery
 
 ---
 
@@ -15,11 +27,14 @@
 
 ---
 
-### ⚡ GitHub Stats
+### 📄 Selected Publications
 
-![Fiona's GitHub stats](https://github-readme-stats.vercel.app/api?username=YingXu001&show_icons=true&theme=radical)
+📌 *Protein-based Diagnosis and Analysis of Co-pathologies Across Neurodegenerative Diseases*  
+**(Under review / in revision)**  
+Large-Scale AI-Boosted CSF and Plasma Classification.
 
-[![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=YingXu001&layout=compact&theme=radical)](https://github.com/anuraghazra/github-readme-stats)
+➡️ Full publication list available on  
+👉 [Google Scholar](https://scholar.google.com/citations?view_op=view_citation&hl=en&user=K0beKUYAAAAJ&citation_for_view=K0beKUYAAAAJ:YsMSGLbcyi4C)
 
 ---
 
@@ -31,7 +46,7 @@
 [linkedin-url]: https://www.linkedin.com/in/fiona-xu-b9004017a/
 
 [scholar-shield]: https://img.shields.io/badge/Google%20Scholar-555?style=flat-square&logo=google-scholar
-[scholar-url]: [https://scholar.google.com/citations?user=K0beKUYAAAAJ&hl=en](https://scholar.google.com/citations?user=K0beKUYAAAAJ&hl=en)
+[scholar-url]: https://scholar.google.com/citations?user=K0beKUYAAAAJ&hl=en
 
 [homepage-shield]: https://img.shields.io/badge/Homepage-555?style=flat-square&logo=google-chrome
 [homepage-url]: https://yingxu001.github.io/
