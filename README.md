@@ -35,7 +35,7 @@ AI4Med researcher working at the intersection of
 ➡️ Full publication list available on  
 👉 [Google Scholar](https://scholar.google.com/citations?view_op=view_citation&hl=en&user=K0beKUYAAAAJ&citation_for_view=K0beKUYAAAAJ:YsMSGLbcyi4C)
 
-📌 *Attacks on node attributes in graph neural networks* **AAAI 2024**  
+📌 *Attacks on node attributes in graph neural networks*, **AAAI 2024**  
 ➡️ Full publication list available on  
 👉 [Google Scholar](https://scholar.google.com/citations?view_op=view_citation&hl=en&user=K0beKUYAAAAJ&citation_for_view=K0beKUYAAAAJ:UeHWp8X0CEIC)
 
