@@ -1,6 +1,6 @@
 # Hi there, I'm Fiona Xu 👋
 
-AI4Med researcher working at the intersection of  
+Tech co-founder at Anida Health, as well as the AI4Med inventor and researcher working at the intersection of  
 **Neurodegenerative diseases · AI/ML · Proteomics**
 
 ### 🔗 Connect with me:
