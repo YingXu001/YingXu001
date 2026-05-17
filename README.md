@@ -29,11 +29,17 @@ Tech co-founder at Anida Health, as well as the AI4Med inventor and researcher w
 
 ### 📄 Selected Publications
 
-📌 *Protein-based Diagnosis and Analysis of Co-pathologies Across Neurodegenerative Diseases: Large-Scale AI-Boosted CSF and Plasma Classification*  
-**(Under review)**  
-
+📌 *Protein-based Diagnosis and Analysis of Co-pathologies Across Neurodegenerative Diseases: Large-Scale AI-Boosted CSF and Plasma Classification*, **(Cell Under Review)** 
 ➡️ Full publication list available on  
 👉 [Google Scholar](https://scholar.google.com/citations?view_op=view_citation&hl=en&user=K0beKUYAAAAJ&citation_for_view=K0beKUYAAAAJ:YsMSGLbcyi4C)
+
+📌 *GPND-AI NULISA: A 15-Protein AI classifier for diagnosis and co-pathology profiling across neurodegenerative diseases*, **(Alzheimer's and Dementia, 2026)** 
+➡️ Full publication list available on  
+👉 [Alzheimer's and Dementia](https://alz-journals.onlinelibrary.wiley.com/doi/10.1002/alz.71420)
+
+📌 *A deep joint-learning proteomics model for diagnosis of six conditions associated with dementia*, **(Nature Medicine, 2026)** 
+➡️ Full publication list available on
+👉 [Nature Medicine](https://www.nature.com/articles/s41591-026-04303-y)
 
 📌 *Attacks on node attributes in graph neural networks*, **AAAI 2024**  
 ➡️ Full publication list available on  
