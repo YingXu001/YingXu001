@@ -64,6 +64,6 @@ Tech co-founder at Anida Health, as well as the AI4Med inventor and researcher w
 
 [linkedin-shield]: https://img.shields.io/badge/LinkedIn-0A66C2?style=flat-square&logo=linkedin&logoColor=white
 
-[linkedin-url]: https://www.linkedin.com/in/fiona-xu-b9004017a/
+[linkedin-url]: https://www.linkedin.com/in/ying-xu-b9004017a/
 
 
