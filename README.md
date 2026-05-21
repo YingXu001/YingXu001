@@ -24,6 +24,7 @@ Tech co-founder at Anida Health, as well as the AI4Med inventor and researcher w
 
 [![Python][Python-shield]][Python-url]
 [![CSharp][CSharp-shield]][CSharp-url]
+[![JavaScript][JavaScript-shield]][JavaScript-url]
 
 ---
 
@@ -59,11 +60,13 @@ Tech co-founder at Anida Health, as well as the AI4Med inventor and researcher w
 [CSharp-shield]: https://img.shields.io/badge/C%23-555?style=flat-square&logo=c-sharp
 [CSharp-url]: https://github.com/YingXu001/CSE-450A-Final-Project
 
+[JavaScript-shield]: https://img.shields.io/badge/JavaScript-555?style=flat-square&logo=javascript&logoColor=white
+[JavaScript-url]: https://github.com/YingXu001/Andia_Health_Home
+
 [homepage-shield]: https://img.shields.io/badge/Homepage-555?style=flat-square&logo=google-chrome
 [homepage-url]: https://yingxu001.github.io/
 
 [linkedin-shield]: https://img.shields.io/badge/LinkedIn-0A66C2?style=flat-square&logo=linkedin&logoColor=white
-
 [linkedin-url]: https://www.linkedin.com/in/ying-xu-b9004017a/
 
 
